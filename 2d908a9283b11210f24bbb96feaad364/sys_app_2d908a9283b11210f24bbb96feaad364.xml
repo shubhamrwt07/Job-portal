@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>8290869283b11210f24bbb96feaad351</logo>
+        <menu/>
+        <name>Job portal</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_job_portal</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>job portal</short_description>
+        <source>x_snc_job_portal</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 09:36:51</sys_created_on>
+        <sys_id>2d908a9283b11210f24bbb96feaad364</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-13 09:36:54</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=2d908a9283b11210f24bbb96feaad364"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>images.png</file_name>
+        <hash>cf7a6db77af4a5b38928bdf7d03831eddcc7f47160afeb4973595ff9f1578911</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>2022</size_bytes>
+        <size_compressed>1992</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 09:36:53</sys_created_on>
+        <sys_id>8290869283b11210f24bbb96feaad351</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-13 09:36:53</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>2d908a9283b11210f24bbb96feaad364</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="images.png" sys_id="8290869283b11210f24bbb96feaad351">8290869283b11210f24bbb96feaad351</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 09:36:53</sys_created_on>
+        <sys_id>c290869283b11210f24bbb96feaad351</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2644</length>
+        <position>1</position>
+        <sys_attachment display_value="images.png" sys_id="8290869283b11210f24bbb96feaad351">8290869283b11210f24bbb96feaad351</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-13 09:36:53</sys_created_on>
+        <sys_id>4690869283b11210f24bbb96feaad351</sys_id>
+    </sys_attachment_doc>
+</record_update>
